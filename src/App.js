@@ -16,7 +16,7 @@ class App extends Component {
     super();
     // 待辦事項清單
     let todos = [
-      { text: '買牛奶', groupid: 'living' },
+      { text: '買OOK', groupid: 'living' },
       { text: '繳電話費', groupid: 'living' },
       { text: '去銀行', groupid: 'living' },
       { text: '內部會議', groupid: 'work' },
